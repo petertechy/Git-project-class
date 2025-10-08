@@ -3,3 +3,22 @@ h1{
     font-size: 5rem;
     text-align: center;
 }
+p{
+    color: blueviolet;
+    line-height: 35px;
+
+}
+.container{
+    width: 70vw;
+    margin: auto;
+    text-align: center;
+}
+button{
+    padding: 16px 40px;
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 1px 1px 3px 5px lightgrey;
+    cursor: pointer;
+}
